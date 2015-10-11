@@ -25,7 +25,7 @@ fs = require "fs"
 path = require "path"
 sys = require "sys"
 util = require "util"
-Tempus = require "Tempus"
+Tempus = require "tempus"
 mkdirp = require("mkdirp").sync
 
 log_streams = {}
